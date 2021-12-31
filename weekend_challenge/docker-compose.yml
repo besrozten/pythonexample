@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  ceaser:
+    build: .
+    command:
+    - "./run_tests.sh"
