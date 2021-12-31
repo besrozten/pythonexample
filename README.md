@@ -1,2 +1,2 @@
 # pythonexample
-pyton ile Cesar şifleme docker file ile
+pyton ile Cesar şifreleme docker file ile
